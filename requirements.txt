@@ -1,0 +1,11 @@
+# Data Analysis & Manipulation
+pandas>=1.5.0
+numpy>=1.21.0
+openpyxl>=3.0.0        # For Excel file handling
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Jupyter
+jupyter>=1.0.0
