@@ -1,6 +1,6 @@
 # Car Price Analysis & Market Segmentation
 
-![Power BI Dashboard](images/dashboard_preview.png)
+![Power BI Dashboard](images/Overview&MarketPositioning.png)
 
 ## Project Overview
 Comprehensive exploratory data analysis of 11,914 vehicles to identify key factors influencing car prices and market segmentation patterns. This project was completed as part of the Samsung Innovation Campus AI Track.
