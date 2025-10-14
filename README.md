@@ -28,10 +28,10 @@ Comprehensive exploratory data analysis of 11,914 vehicles to identify key facto
    ```bash
    git clone https://github.com/yourusername/car-price-analysis.git
 2. Install dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Run analysis:
-  ```bash
-  jupyter notebook notebooks/car_data_analysis.ipynb
-  ```
+   ```bash
+   jupyter notebook notebooks/car_data_analysis.ipynb
+   ```
